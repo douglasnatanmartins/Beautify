@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700662388203",
+    "firebase_url": "https://beautify-bb1bb.firebaseio.com",
+    "project_id": "beautify-bb1bb",
+    "storage_bucket": "beautify-bb1bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700662388203:android:e80e0576ddba99672c75ae",
+        "android_client_info": {
+          "package_name": "com.example.beautify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700662388203-im1k7sbeojhpltm0pin1pq8qa2bpdgbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beautify",
+            "certificate_hash": "b0fbe6f79e441139ba6ee8467547a830cc44aebb"
+          }
+        },
+        {
+          "client_id": "700662388203-ho2rkrl6eeknl0bps26nusv64emd6ut0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB74POSN0Nnbxt4MT1-8ZAlluvEAo0JBj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700662388203-ho2rkrl6eeknl0bps26nusv64emd6ut0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
